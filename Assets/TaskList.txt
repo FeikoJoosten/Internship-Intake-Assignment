@@ -1,0 +1,56 @@
+﻿- Setup all items			-- DONE
+	- Gun					-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Ammo-Clip				-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Flashlight			-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Rock					-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Hat					-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Bullet				-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+
+- Setup equipment system	-- DONE
+	- Body parts			-- DONE
+	- UI					-- DONE
+		- Drop items		-- DONE
+
+- Setup usage system		-- DONE
+	- Body parts			-- DONE
+
+- Interactables				-- DONE
+	- Door					-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Lever					-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Key					-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+	- Button				-- DONE
+		- Code				-- DONE
+		- Prefab			-- DONE
+
+- Player input				-- DONE
+	- Rotation				-- DONE
+	- Movement				-- DONE
+	- Interaction			-- DONE
+	- Left hand control		-- DONE
+	- Right hand control	-- DONE
+	- Item selection		-- DONE
+	- Damage setup			-- DONE
+
+- Documentation				-- WIP
+	- Code					-- DONE
+		- public functions	-- DONE
+		- variables			-- DONE
+	- README.txt			-- WIP
